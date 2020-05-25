@@ -1,0 +1,12 @@
+mean(mtcars$mpg)
+library(help='base')
+head(iris)
+summary(iris$Species)
+install.packages('devtools')
+library(devtools)
+help(package = 'ggplot2')
+help(package = 'devtools')
+sessionInfo()
+
+install.packages('KernSmooth')
+library(KernSmooth)
